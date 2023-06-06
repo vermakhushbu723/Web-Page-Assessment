@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=JejuGothic:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=K2D:wght@300;400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jura:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Itoya-Bold:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inria+Serif:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Itoya-Light:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Homenaje:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jomolhari:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jaldi:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Itoya-UltraLight:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Istok+Web:wght@400;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-bebas-neue: "Bebas Neue";
+  --font-itoya-light: Itoya-Light;
+  --font-itoya-bold: Itoya-Bold;
+  --font-jomolhari: Jomolhari;
+  --font-istok-web: "Istok Web";
+  --font-itoya-ultralight: Itoya-UltraLight;
+  --font-k2d: K2D;
+  --font-josefin-slab: "Josefin Slab";
+  --font-jaldi: Jaldi;
+  --font-homenaje: Homenaje;
+  --font-inria-serif: "Inria Serif";
+  --font-rubik: Rubik;
+  --font-jost: Jost;
+  --font-josefin-sans: "Josefin Sans";
+  --font-jura: Jura;
+  --font-jejugothic: JejuGothic;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-21xl: 40px;
+  --font-size-17xl: 36px;
+  --font-size-5xl: 24px;
+  --font-size-base: 16px;
+  --font-size-29xl: 48px;
+  --font-size-sm: 14px;
+  --font-size-mini: 15px;
+  --font-size-xs: 12px;
+  --font-size-smi: 13px;
+  --font-size-7xl: 26px;
+  --font-size-2xl: 21px;
+  --font-size-45xl: 64px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-dimgray-100: #4c696d;
+  --color-cadetblue: #4e99a4;
+  --color-powderblue-100: #badcdc;
+  --color-lightcyan-100: #ddf8f3;
+  --color-darkslategray-100: #416f75;
+  --color-darkslategray-200: #354547;
+  --color-gray-100: #8f8787;
+  --color-gray-200: #2c2c2c;
+  --color-gray-300: #211a13;
+  --color-gray-400: #221010;
+  --color-gray-500: #131514;
+  --color-gray-600: #0c0c0c;
+  --color-gray-700: rgba(0, 0, 0, 0.35);
+  --color-gainsboro-100: #dee0ea;
+  --color-gainsboro-200: #e0e0e0;
+  --color-darkgray: #ada3a3;
+
+  /* border radiuses */
+  --br-4xl-5: 23.5px;
+  --br-mini: 15px;
+  --br-3xs: 10px;
+  --br-2xs: 11px;
+  --br-8xs: 5px;
+  --br-5xl: 24px;
+  --br-11xl: 30px;
+  --br-6xl-5: 25.5px;
+  --br-15xl: 34px;
+}
